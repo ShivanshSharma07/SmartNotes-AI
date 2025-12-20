@@ -3,7 +3,7 @@ This project builds a basic RAG (Retrieval-Augmented Generation) system using Py
 
 
 import os
-import sys
+import sys 
 from typing import List, Tuple
 
 import numpy as np
